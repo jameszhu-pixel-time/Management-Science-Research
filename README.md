@@ -7,7 +7,8 @@
 - ### Agents in Queue Problems:
   - ✅Idea Selction:
   - Core Algorithms Set up:
-    - Agents:Q-learning,DQN
+    - Agents:Q-learning,DQN(what's the choice)
     - Enviornment: Transition Model and Priority Queues
     - Reward: Queue Theory Calculations
-    - Theoretical Calculations: How to analyze one's efficiency
+  - Theoretical Calculations: How to analyze one's efficiency
+    - M/M/1 Ideal Solution
