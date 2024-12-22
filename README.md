@@ -11,4 +11,4 @@
     - Enviornment: Transition Model and Priority Queues
     - Reward: Queue Theory Calculations
   - Theoretical Calculations: How to analyze one's efficiency
-    - M/M/1 Ideal Solution
+    - M/D/1 Ideal Solution
